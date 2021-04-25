@@ -1,0 +1,4 @@
+ - [04/16/21 21:31:03] <Info>: Waiting for DFU devices
+ - [04/16/21 21:31:03] <Verbose>: Using usbmuxd
+ - [04/16/21 21:31:06] <Warning>: connection refused?!
+ - [04/16/21 21:31:06] <Error>: usbmux: Failed to connect (error code: -79)
