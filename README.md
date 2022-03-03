@@ -1,6 +1,6 @@
 # FancyRat
 
-FancyRat is the capstone project a part of [ISS](https://www.sait.ca/programs-and-courses/diplomas/information-systems-security) program at [SAIT](https://www.sait.ca/programs-and-courses/diplomas/information-systems-security).
+FancyRat is a capstone project part of the [ISS](https://www.sait.ca/programs-and-courses/diplomas/information-systems-security) program at [SAIT](https://www.sait.ca/programs-and-courses/diplomas/information-systems-security).
 
 ## what does it do
 
